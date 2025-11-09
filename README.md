@@ -1,10 +1,5 @@
 # Checkers online
 
-## Table of contents
-* [Idea](#idea)
-* [Features](#features)
-* [Technologies](#technologies)
-
 ## Idea
 Checkers online app where you can play with somone in real-time.
 
