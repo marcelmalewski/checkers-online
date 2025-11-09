@@ -1,7 +1,15 @@
-# Checkers online - web app
+# Checkers online
+
+## Table of contents
+* [Idea](#idea)
+* [Features](#features)
+* [Technologies](#technologies)
+
+## Idea
 Checkers online app where you can play with somone in real-time.
 
-### What the app offers in more details:  
+## Features
+### Current features
 * You can register and login.
 * Your data is encrypted (with argon2) and stored in database.
 * With jsonwebtoken it is checkd every time if someone who wants to do some action in your account is really you. Eventually he is logged out.
@@ -9,9 +17,6 @@ Checkers online app where you can play with somone in real-time.
 * You can join other's rooms.
 * You can play checkers inside room.
 * You can use chat inside room.
-
-## Languages
-* Javascript  
 
 ## Technologies
 * React
@@ -21,5 +26,4 @@ Checkers online app where you can play with somone in real-time.
 * Mongoose
 * Socket.IO
 * Axios
-* jsonwebtoken  
-and more in package.json
+* jsonwebtoken
